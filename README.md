@@ -1,1 +1,4 @@
-# homework_lab7
+```
+python myscript.py Alice --age 30
+
+```
